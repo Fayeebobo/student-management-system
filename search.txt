@@ -1,0 +1,6 @@
+Student Search
+
+Users can search students by:
+- Name
+- Student ID 
+- Course
