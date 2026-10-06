@@ -1,0 +1,7 @@
+Student Registration System
+
+Students can register for courses
+
+Students can drop courses
+
+Students can view registered  courses
